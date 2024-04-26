@@ -1,5 +1,5 @@
 # Hi, I'm Sara! 👋
-I am a Computer Science student at Columbia University as a rising junior graduating in May 2026. I'm interested in AI, product management, & data science!  
+I am a Computer Science student at Columbia University as a rising junior graduating in May 2026. I'm interested in AI, product management, & data science!   
 ### Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -19,9 +19,10 @@ I am a Computer Science student at Columbia University as a rising junior gradua
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
 
-
+---
+<p align="center"> Looking for an intern? Connect with me on <a href="https://www.linkedin.com/in/-saralin/">Linkedin</a>!</p>
 
 
 
